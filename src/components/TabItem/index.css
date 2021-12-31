@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-styling {
+  list-style: none;
+}
+.button {
+  height: 34px;
+  margin: 10px;
+  color: #7b8794;
+  background-color: transparent;
+  border: none;
+}
+.click-style {
+  height: 34px;
+  margin: 10px;
+  color: #2563eb;
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+.horizontal-line {
+  border-width: 1px;
+  border-color: #2563eb;
+}

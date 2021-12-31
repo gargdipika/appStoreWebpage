@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.background-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree Serif';
+}
+
+.input-container {
+  border: solid;
+  border-color: #7b8794;
+  height: 30px;
+
+  border-width: 2px;
+}
+.search-image {
+  height: 20px;
+  width: 20px;
+}
+.input-element {
+  margin-bottom: 20px;
+  border: none;
+  background-color: transparent;
+  height: 28px;
+}
+.tab-list {
+  display: flex;
+}
+
+.app-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80vw;
+}
